@@ -36,6 +36,8 @@ We evaluated the Romanian DistilBERT in comparison with the original Romanian BE
 - **SAR**: Sentiment Analysis - Rating
 - **DI**: Dialect identification 
 
+It maintains most of the performance of its teacher:
+
 | Model                          | UPOS | XPOS | NER | SAPN | SAR | DI |
 |--------------------------------|:----:|:----:|:---:|:----:|:---:|:--:|
 | bert-base-romanian-cased-v1    | 98.00 | 96.46 | 85.88 | 98.07 | 79.61 | 95.58 |
