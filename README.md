@@ -31,8 +31,8 @@ We evaluated the Romanian DistilBERT in comparison with the original Romanian BE
 - **UPOS**: Universal Part of Speech
 - **XPOS**: Extended Part of Speech
 - **NER**: Named Entity Recognition
-- **SAPN**: Sentiment Anlaysis Positive vs Negative
-- **SAR**: Sentiment Analysis Rating
+- **SAPN**: Sentiment Anlaysis - Positive vs Negative
+- **SAR**: Sentiment Analysis - Rating
 - **DI**: Dialect identification 
 
 | Model                          | UPOS | XPOS | NER | SAPN | SAR | DI |
