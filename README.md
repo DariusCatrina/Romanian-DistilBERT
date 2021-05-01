@@ -3,10 +3,11 @@ This repository contains the DistilBERT version for Romanian. Teacher model used
 
 ## Usage
 
-Romanian DistilBERT is accesible via the HuggingFace interface.
+Romanian DistilBERT is easily accesible via the HuggingFace interface.
 
 ```python
 from transformers import AutoTokenizer, AutoModel
+
 # load the tokenizer and the model
 tokenizer = AutoTokenizer.from_pretrained("racai/distilbert-base-romanian-cased")
 model = AutoModel.from_pretrained("racai/distilbert-base-romanian-cased")
