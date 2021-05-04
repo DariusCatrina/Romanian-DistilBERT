@@ -35,6 +35,7 @@ We evaluated the Romanian DistilBERT in comparison with the original Romanian BE
 - **SAPN**: Sentiment Anlaysis - Positive vs Negative
 - **SAR**: Sentiment Analysis - Rating
 - **DI**: Dialect identification 
+- **STS**: Semantic Textual Similarity
 
 It maintains most of the performance of its teacher:
 
