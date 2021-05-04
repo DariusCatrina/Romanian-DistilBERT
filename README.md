@@ -38,10 +38,10 @@ We evaluated the Romanian DistilBERT in comparison with the original Romanian BE
 
 It maintains most of the performance of its teacher:
 
-| Model                          | UPOS | XPOS | NER | SAPN | SAR | DI |
-|--------------------------------|:----:|:----:|:---:|:----:|:---:|:--:|
-| bert-base-romanian-cased-v1    | 98.00 | 96.46 | 85.88 | 98.07 | 79.61 | 95.58 |
-| distilbert-base-romanian-cased | 97.97 | 97.08 | 83.35 | 98.40 | 83.01 | 96.31 |
+| Model                          | UPOS | XPOS | NER | SAPN | SAR | DI | STS |
+|--------------------------------|:----:|:----:|:---:|:----:|:---:|:--:|:---:|
+| bert-base-romanian-cased-v1    | 98.00 | 96.46 | 85.88 | 98.07 | 79.61 | 95.58 | 79.11 |
+| distilbert-base-romanian-cased | 97.97 | 97.08 | 83.35 | 98.40 | 83.01 | 96.31 | 80.57 |
 
 More details can be found in the evaluation section of the repository.
 
