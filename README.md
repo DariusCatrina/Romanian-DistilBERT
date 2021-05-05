@@ -29,13 +29,13 @@ Romanian DistilBERT is 35% smaller than the original Romanian BERT and approxima
 
 We evaluated the Romanian DistilBERT in comparison with the original Romanian BERT on 5 tasks:
 
-- **UPOS**: Universal Part of Speech
-- **XPOS**: Extended Part of Speech
-- **NER**: Named Entity Recognition
-- **SAPN**: Sentiment Anlaysis - Positive vs Negative
-- **SAR**: Sentiment Analysis - Rating
-- **DI**: Dialect identification 
-- **STS**: Semantic Textual Similarity
+- **UPOS**: Universal Part of Speech (F1-macro)
+- **XPOS**: Extended Part of Speech (F1-macro)
+- **NER**: Named Entity Recognition (F1-macro)
+- **SAPN**: Sentiment Anlaysis - Positive vs Negative (Accuracy)
+- **SAR**: Sentiment Analysis - Rating (F1-macro)
+- **DI**: Dialect identification  (F1-macro)
+- **STS**: Semantic Textual Similarity (Pearson)
 
 It maintains most of the performance of its teacher:
 
