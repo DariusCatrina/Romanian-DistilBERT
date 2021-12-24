@@ -46,6 +46,19 @@ It maintains most of the performance of its teacher:
 
 More details can be found in the evaluation section of the repository.
 
-## Citation
+## Credits
 
-Coming soon.
+Please consider citing the following [paper](https://arxiv.org/abs/2112.12650) as a thank you to the authors of Romanian DistilBERTs: 
+```
+Andrei-Marius Avram, Darius Catrina, Dumitru-Clementin Cercel, Mihai Dascălu, Traian Rebedea, Vasile Păiş and Dan Tufiş. "Distilling the Knowledge of Romanian BERTs Using Multiple Teachers" arXiv preprint arXiv:2112.12650 (2021).
+```
+or in .bibtex format:
+```
+@article{avram2021distilling,
+  title={Distilling the Knowledge of Romanian BERTs Using Multiple Teachers},
+  author={Andrei-Marius Avram and Darius Catrina and Dumitru-Clementin Cercel and Mihai Dascălu and Traian Rebedea and Vasile Păiş and Dan Tufiş},
+  journal={ArXiv},
+  year={2021},
+  volume={abs/2112.12650}
+}
+```
